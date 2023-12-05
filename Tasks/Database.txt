@@ -1,0 +1,15 @@
+SQLite3
+
+User
+
+1. First Name
+2. Last Name
+3. Phone number
+4. Address
+
+Products
+
+1. Product name
+2. Product descripts
+3. Products old and now price
+4. Product picture
